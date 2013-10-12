@@ -1,4 +1,4 @@
 This is a test!
 ===
 
-foo boo
+foo foo foo
